@@ -1,0 +1,8 @@
+flwr==1.6.0
+torch
+torchvision
+opacus
+numpy
+tqdm
+matplotlib
+rich
